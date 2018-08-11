@@ -1,9 +1,9 @@
 # webpack4starter
-#instalar paquetes:
+# instalar paquetes:
 npm install  
-#ejecutar el servidor:
+# ejecutar el servidor:
 npm run dev
-#fix eslint errors:
+# fix eslint errors:
 npm run es
 # generate code:
 npm run build 
